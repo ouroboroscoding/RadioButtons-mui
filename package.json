@@ -1,6 +1,6 @@
 {
 	"name": "@ouroboros/react-radiobuttons-mui",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "RadioButtons using Material-UI",
 	"main": "index.js",
 	"types": "index.d.ts",
